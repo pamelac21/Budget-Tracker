@@ -3,8 +3,8 @@ const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION
 
 const FILES_TO_CACHE = [
-    "manifest.json",
-    "index.html",
+    "./manifest.json",
+    "./index.html",
     "./css/styles.css",
     "./js/index.js"
 

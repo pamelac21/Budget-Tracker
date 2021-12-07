@@ -16,9 +16,10 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(MONGODB_URI, {
+mongoose.connect(MONGODB_URI || 'mongodb://localhost:27017/budget-tracker', {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
+  useUnifiedTopology: true
 });
 
 // routes
@@ -28,4 +29,4 @@ app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
 
-// https://polar-hollows-87169.herokuapp.com/ | https://git.heroku.com/polar-hollows-87169.git
+//  ⬢ polar-hollows-87169 https://polar-hollows-87169.herokuapp.com/ | https://git.heroku.com/polar-hollows-87169.git

@@ -47,11 +47,17 @@ SO THAT my account balance is accurate when I am traveling
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## New Tech Used
+## Tech Used
 
 `IndexedDB`
 
 `service worker`
+
+`Express.js`
+
+`MongoDB`
+
+`Mongoose`
 
 Deployment to Heroku Using `MongoDB Atlas`
 

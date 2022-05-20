@@ -5,6 +5,19 @@
 
 I want to give users a fast and easy way to track their money with the ability to access that information at any time. I added functionality to an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the total should be updated when the application is brought back online.
 
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployed Site](#deployed-site)
+- [Tech Used](#tech-used)
+- [Contact](#contact)
+- [License](#license)
+- [Contributing](#contributing)
+
+
 ```md
 GIVEN a Budget Tracker without an internet connection
 WHEN the user inputs an expense or deposit

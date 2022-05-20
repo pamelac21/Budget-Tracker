@@ -15,7 +15,7 @@ I want to give users a fast and easy way to track their money with the ability t
 - [Tech Used](#tech-used)
 - [Contact](#contact)
 - [License](#license)
-- [Contributing](#contributing)
+- [Contributing](#contact)
 
 
 ```md
@@ -81,7 +81,7 @@ SO THAT my account balance is accurate when I am traveling
 Deployment to Heroku Using `MongoDB Atlas`
 
 
-## Contributing 
+## Contact
 
 [Pamela](https://github.com/pamelac21)[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 

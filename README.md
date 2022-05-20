@@ -30,6 +30,10 @@ SO THAT my account balance is accurate when I am traveling
 ![screencapture-polar-hollows-87169-herokuapp-2021-12-06-22_53_18](https://user-images.githubusercontent.com/87335354/144963500-5c027b52-573e-4349-aab0-b90f0d4c68ed.png)
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## New Tech Used
 
 `IndexedDB`
